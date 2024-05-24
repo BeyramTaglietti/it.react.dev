@@ -1,24 +1,24 @@
 ---
-title: "Built-in React Components"
+title: "Componenti React incorporati"
 ---
 
 <Intro>
 
-React exposes a few built-in components that you can use in your JSX.
+React espone alcuni componenti incorporati che puoi utilizzare nel tuo JSX.
 
 </Intro>
 
 ---
 
-## Built-in components {/*built-in-components*/}
+## Componenti incorporati {/*built-in-components*/}
 
-* [`<Fragment>`](/reference/react/Fragment), alternatively written as `<>...</>`, lets you group multiple JSX nodes together.
-* [`<Profiler>`](/reference/react/Profiler) lets you measure rendering performance of a React tree programmatically.
-* [`<Suspense>`](/reference/react/Suspense) lets you display a fallback while the child components are loading.
-* [`<StrictMode>`](/reference/react/StrictMode) enables extra development-only checks that help you find bugs early.
+* [`<Fragment>`](/reference/react/Fragment), scritto anche in questo modo `<>...</>`, ti permette di raggruppare più nodi JSX assieme.
+* [`<Profiler>`](/reference/react/Profiler) ti permette di misurare la performance di rendering di un albero React programmaticamente.
+* [`<Suspense>`](/reference/react/Suspense) ti permette di mostrare un fallback nel mentre che i componenti figli stanno caricando.
+* [`<StrictMode>`](/reference/react/StrictMode) abilita dei controlli extra disponibili solamente in fase di sviluppo che ti permettono di trovare dei bug anticipatamente.
 
 ---
 
-## Your own components {/*your-own-components*/}
+## I tuoi componenti personali {/*your-own-components*/}
 
-You can also [define your own components](/learn/your-first-component) as JavaScript functions.
+Puoi anche [definire i tuoi componenti personali](/learn/your-first-component) come funzioni Javascript.
